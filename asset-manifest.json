@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/san-11/clone_oikos.git/static/css/main.5c08e8ff.chunk.css",
+    "main.js": "/san-11/clone_oikos.git/static/js/main.d6981cce.chunk.js",
+    "main.js.map": "/san-11/clone_oikos.git/static/js/main.d6981cce.chunk.js.map",
+    "runtime-main.js": "/san-11/clone_oikos.git/static/js/runtime-main.6ce80291.js",
+    "runtime-main.js.map": "/san-11/clone_oikos.git/static/js/runtime-main.6ce80291.js.map",
+    "static/js/2.b924cbc7.chunk.js": "/san-11/clone_oikos.git/static/js/2.b924cbc7.chunk.js",
+    "static/js/2.b924cbc7.chunk.js.map": "/san-11/clone_oikos.git/static/js/2.b924cbc7.chunk.js.map",
+    "static/js/3.602fd15f.chunk.js": "/san-11/clone_oikos.git/static/js/3.602fd15f.chunk.js",
+    "static/js/3.602fd15f.chunk.js.map": "/san-11/clone_oikos.git/static/js/3.602fd15f.chunk.js.map",
+    "index.html": "/san-11/clone_oikos.git/index.html",
+    "static/css/main.5c08e8ff.chunk.css.map": "/san-11/clone_oikos.git/static/css/main.5c08e8ff.chunk.css.map",
+    "static/js/2.b924cbc7.chunk.js.LICENSE.txt": "/san-11/clone_oikos.git/static/js/2.b924cbc7.chunk.js.LICENSE.txt",
+    "static/media/BSCWallet.d246cd68.svg": "/san-11/clone_oikos.git/static/media/BSCWallet.d246cd68.svg",
+    "static/media/globe.df2e7bd3.svg": "/san-11/clone_oikos.git/static/media/globe.df2e7bd3.svg",
+    "static/media/mathwallet-white.e2475182.svg": "/san-11/clone_oikos.git/static/media/mathwallet-white.e2475182.svg",
+    "static/media/metamask.1d9cc22b.svg": "/san-11/clone_oikos.git/static/media/metamask.1d9cc22b.svg",
+    "static/media/slider1.d3ac93ef.png": "/san-11/clone_oikos.git/static/media/slider1.d3ac93ef.png",
+    "static/media/slider2.ae864f9e.png": "/san-11/clone_oikos.git/static/media/slider2.ae864f9e.png",
+    "static/media/slider3.3eddc775.png": "/san-11/clone_oikos.git/static/media/slider3.3eddc775.png",
+    "static/media/slider4.b9e228f3.png": "/san-11/clone_oikos.git/static/media/slider4.b9e228f3.png",
+    "static/media/slider5.2f582d95.png": "/san-11/clone_oikos.git/static/media/slider5.2f582d95.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ce80291.js",
+    "static/js/2.b924cbc7.chunk.js",
+    "static/css/main.5c08e8ff.chunk.css",
+    "static/js/main.d6981cce.chunk.js"
+  ]
+}
